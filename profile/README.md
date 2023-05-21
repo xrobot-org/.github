@@ -13,7 +13,7 @@ Thank you for your attention to our project.
 
 ## CI/CD
 
-![Build](https://github.com/xrobot-org/XRobot/actions/workflows/build_firmware.yml/badge.svg)
+![Build](https://github.com/xrobot-org/XRobot/actions/workflows/build_publish.yml/badge.svg)
 
 ![Pack](https://github.com/xrobot-org/XRobot/actions/workflows/publish_repo.yml/badge.svg)
 
