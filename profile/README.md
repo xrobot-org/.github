@@ -17,6 +17,8 @@ Thank you for your attention to our project.
 
 ![Pack](https://github.com/xrobot-org/XRobot/actions/workflows/publish_repo.yml/badge.svg)
 
+![Docker](https://github.com/xrobot-org/Docker-Image/actions/workflows/docker-publish.yml/badge.svg)
+
 ## Gitee Mirror
 
 [![star](https://gitee.com/xrobot_1/XRobot/badge/star.svg?theme=black)](https://gitee.com/xrobot_1/XRobot/stargazers)
