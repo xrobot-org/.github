@@ -13,12 +13,8 @@ Thank you for your attention to our project.
 
 ## CI/CD
 
-![Build](https://github.com/xrobot-org/XRobot/actions/workflows/build_publish.yml/badge.svg)
-
-![Pack](https://github.com/xrobot-org/XRobot/actions/workflows/publish_repo.yml/badge.svg)
-
-![Docker](https://github.com/xrobot-org/Docker-Image/actions/workflows/docker-publish.yml/badge.svg)
+[![CI/CD - Python Package](https://github.com/xrobot-org/XRobot/actions/workflows/python-publish.yml/badge.svg)](https://github.com/xrobot-org/XRobot/actions/workflows/python-publish.yml)
 
 ## Gitee Mirror
 
-[![star](https://gitee.com/xrobot_1/XRobot/badge/star.svg?theme=black)](https://gitee.com/xrobot_1/XRobot/stargazers)
+[![star](https://gitee.com/x-robot/XRobot/badge/star.svg?theme=gray)](https://gitee.com/x-robot/XRobot/stargazers)
